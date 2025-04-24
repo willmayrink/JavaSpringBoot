@@ -16,8 +16,6 @@
 Este repositório conterá exemplos práticos e anotações de estudo sobre o `SpringBoot`, incluindo:
 
 - [x] Configurações iniciais
-- [ ] Criação de APIs REST
 - [ ] Integração com bancos de dados
-- [ ] Uso de Spring Data JPA
 - [ ] Autenticação e autorização com Spring Security
 - [ ] Testes unitários e de integração
